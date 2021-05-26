@@ -1,3 +1,3 @@
-# GitHub Actions
+# ga
 
-> This is a personal fork of the `go-githubactions` project (github.com/sethvargo/go-githubactions)
+> This is a test project based on [go-githubactions](github.com/sethvargo/go-githubactions).

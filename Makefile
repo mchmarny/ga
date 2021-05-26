@@ -1,4 +1,4 @@
-RELEASE_VERSION  ?=v0.4.1
+RELEASE_VERSION  ?=v0.4.2
 
 all: help
 
