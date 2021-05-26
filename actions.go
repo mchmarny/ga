@@ -1,4 +1,4 @@
-package githubactions
+package ga
 
 import (
 	"fmt"
