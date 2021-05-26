@@ -1,0 +1,11 @@
+# Mac 
+.DS_Store
+
+# Test binaries
+*.test
+
+# Coverage
+*.out
+
+# Binaries
+bin
